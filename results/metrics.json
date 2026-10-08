@@ -1,0 +1,10 @@
+{
+  "Baseline: TF-IDF + Logistic Regression": {
+    "accuracy": 0.98,
+    "macro_f1": 0.9797
+  },
+  "Transformer: pre-trained RoBERTa": {
+    "accuracy": 0.5766,
+    "macro_f1": 0.5718
+  }
+}
