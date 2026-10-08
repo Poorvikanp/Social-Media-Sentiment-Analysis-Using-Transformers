@@ -1,0 +1,17 @@
+{
+  "training_samples": 3000,
+  "validation_samples": 999,
+  "epochs": 1,
+  "accuracy": 0.7027027027027027,
+  "macro_f1": 0.7061772073193229,
+  "macro_precision": 0.7052757120343914,
+  "macro_recall": 0.7259792164265674,
+  "training_time_seconds": 2094.1332116127014,
+  "early_stopped": false,
+  "model_name": "cardiffnlp/twitter-roberta-base-sentiment-latest",
+  "label_mapping": {
+    "0": "negative",
+    "1": "neutral",
+    "2": "positive"
+  }
+}
