@@ -242,7 +242,7 @@ Developed as a team project for a course-level Generative AI hackathon at the De
 
 - [Hugging Face Transformers](https://huggingface.co/docs/transformers)
 - [Cardiff NLP Twitter-RoBERTa](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest)
-- [Kaggle](https://www.kaggle.com/) for the dataset
+
 
 ---
 
